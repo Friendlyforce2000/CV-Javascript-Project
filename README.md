@@ -2,3 +2,4 @@
 ## Example
 # helloworld
 # hello_everyone
+# friday
