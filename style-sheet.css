@@ -1,14 +1,32 @@
 .background-color {
     background-color: pink;
 }
-
+.breaks {
+    background-color: black;
+    height: 0.1em ;
+    
+}
 .h1 {
-color: blue; }
+color: blue; 
+padding-bottom: 1em ;}
 
 .col-md-4{
     float:left;
+    padding-bottom: 0.25em;
+    font-weight: bold;
 }
 .col-md-8{
     float: right;
     
+}
+.Experiencerow {
+    padding-bottom: 10em;
+
+
+}
+
+#experienceh {
+ text-align:center;
+ padding-top:2.5em ;
+ padding-bottom:2.5em ;
 }
